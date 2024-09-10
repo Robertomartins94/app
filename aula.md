@@ -49,8 +49,13 @@
   - [x]Criação e manipulação de objetos 
   - [x]Acesso a propiedade de objetos
 
- ### Function
+ ### Function:
 
  - [x] Criar, passar argumento
  - [x] executar
  - [x] arrow function / named function
+
+ # Estrutura de repetição:
+
+ - [x] while 
+ 
