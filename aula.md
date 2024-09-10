@@ -59,3 +59,6 @@
 
  - [x] while 
  
+ # Condicionais:
+
+ - [x] switch
