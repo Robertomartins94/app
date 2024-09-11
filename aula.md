@@ -37,18 +37,20 @@
   - [x] Operadores de atribuição de valor: =
   - [x] Operador de concatenação: +
   - [x] Operadores de comparação: == != <= >= < >
+  - [x] Spread operator: ...
 
   ## Estruturas de dados:
 
   ## Arrays:
 
-  - [x]Uma lista que contém qualquer tipo de dado
+  - [x] Uma lista que contém qualquer tipo de dado
+  - [x] Métodos de array: push, [find, forEach, filter] : HOF ( Higher Order Functions)
 
   ### Objetos:
 
-  - [x]Atributos e métodos
-  - [x]Criação e manipulação de objetos 
-  - [x]Acesso a propiedade de objetos
+  - [x] Atributos e métodos
+  - [x] Criação e manipulação de objetos 
+  - [x] Acesso a propiedade de objetos
 
  ### Function:
 
